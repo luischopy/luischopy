@@ -10,7 +10,7 @@
 
 ### SOBRE MI:
 
-- 🔭 website portafolio: [portafolio](https://portafolio-lacm.000webhostapp.com/portafolio-lacm/)
+- 🔭 website portafolio: [portafolio](https://luischopy.github.io/)
 - 💬 email: isc.luisandres@gmail.com
 - Estoy aprendiendo actualmente: laravel
 
